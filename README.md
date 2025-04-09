@@ -1,11 +1,11 @@
-### Hi there, I'm Pablo 👋
+### Hi there, I'm Pablo 👋 Desarrollador Full Stack .Net
 
 ##
 
 
 <br />
 
-## I'm a Student Developer!
+## I'm a Developer Full Stack .Net!
 - 🔭 I’m currently studying on Educación IT (ISTEA)
 - 🌱 I’m currently learning everything new!
 - ⚡ Fun fact: 
@@ -21,7 +21,7 @@
 <img align="left" alt="C#" width="26px" src="https://user-images.githubusercontent.com/74331400/123355236-9dabc980-d53b-11eb-94b6-c2c89ceb220a.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://user-images.githubusercontent.com/74331400/123281409-0cf3d000-d4e0-11eb-8a48-13a4afb507d0.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Terminal" width="26px" src="https://user-images.githubusercontent.com/74331400/123281417-0e24fd00-d4e0-11eb-8298-78dd2cbfd301.png" />
+<img align="left" alt="SQL" width="26px" src="https://www.mag-corp.com/wp-content/uploads/2021/08/angular.png" />
 <img align="left" alt="Git" width="26px" src="https://user-images.githubusercontent.com/74331400/123281403-0c5b3980-d4e0-11eb-8775-5e1da075d97e.png" />
 <img align="left" alt="Replit" width="26px" src="https://user-images.githubusercontent.com/74331400/123289406-d5d4ed00-d4e6-11eb-9fb8-d840a1b76654.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/74331400/123281405-0c5b3980-d4e0-11eb-9621-37f4522e3299.png" />
@@ -33,4 +33,4 @@
 ---
 
 
-[linkedin]: https://www.linkedin.com/in/pablo-dominguez-5aa05b1a
+[linkedin]: 
